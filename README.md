@@ -6,3 +6,17 @@ Program1: C program to do the following: Using fork( ) create a child process. T
 Program2: Write a C program to simulate the non-preemptive CPU scheduling algorithms to find turnaround time and waiting time for shortest job first scheduling.
 
 Program3: Write a C program to simulate the non-preemptive CPU scheduling algorithms to find turnaround time and waiting time for Round Robin Scheduling for a given Quantum.
+
+Program4: Write a C program to simulate producer-consumer problem using semaphores.
+
+Program5: Write a C program to simulate the concept of Dining-Philosophers problem.
+
+Program6: Write a C program to simulate Bankers algorithm for the purpose of deadlock avoidance.
+
+Program7: Write a C program to simulate the contiguous memory allocation techniques for first fit,Worst fit, Best-fit.
+
+Program8: Write a C program to simulate page replacement algorithms LRU.
+
+Program9: Write a C program to simulate the Two level directory file organization techniques.
+
+Program10: Write a C program to simulate disk scheduling algorithm for SCAN.
