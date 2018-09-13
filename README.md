@@ -5,7 +5,7 @@ Program1: C program to do the following: Using fork( ) create a child process. T
 
 Program2: Write a C program to simulate the non-preemptive CPU scheduling algorithms to find turnaround time and waiting time for shortest job first scheduling.
 
-Program3: Write a C program to simulate the non-preemptive CPU scheduling algorithms to find turnaround time and waiting time for Round Robin Scheduling for a given Quantum.
+Program3: Write a C program to simulate the Preemptive CPU scheduling algorithms to find turnaround time and waiting time for Round Robin Scheduling for a given Quantum.
 
 Program4: Write a C program to simulate producer-consumer problem using semaphores.
 
