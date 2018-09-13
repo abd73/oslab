@@ -1,4 +1,4 @@
-/* Write a C program to simulate the non-preemptive CPU scheduling algorithms to find
+/* Write a C program to simulate the preemptive CPU scheduling algorithms to find
 turnaround time and waiting time for Round Robin Scheduling for a given Quantum	*/
 
 #include<stdio.h>
